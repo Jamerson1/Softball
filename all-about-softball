@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>HTML Reference</title>
+</head>
+
+<body>
+  <h1> All About Softball</h1>
+<img src=https://bloximages.chicago2.vip.townnews.com/homenewshere.com/content/tncms/assets/v3/editorial/c/9a/c9a6d816-7af5-11e8-9acc-173d1a260be4/5b35162c9ba40.image.jpg?resize=1200%2C920 width="350">
+       </body></body>
+  <h2>Introduction</h2>
+Softball is a variant of baseball played with a larger ball (11 to 12 in. circumference) on a smaller field. It was invented in 1887 in Chicago, Illinois, United States as an indoor game. The game moves at a faster pace than traditional baseball. There is less time for the base runner to get to first while the opponent fields the ball; yet, the fielder has less time to field the ball while the opponent is running down to first base. The name softball was given to the game in 1926, because the ball used to be soft.
+  <h2>Equipment Used</h2>
+<ol>
+  <li>A softball</li>
+  <li>A glove</li>
+  <li>Face Mask(usually optional)</li>
+  <li>Softball Cleats, metal spikes of plastic spikes</li>
+  <li>Helmet</li>
+  <li>Slide guards</li>
+  <li>Bat</li>
+  <li>Batting gloves</li>
+</ol>
+  <table style="width:70">
+    <table border="5">
+  <tr>
+    <th>Item</th>
+    <th>Price Range</th> 
+    <th>Use</th>
+  </tr>
+  <tr>
+    <td>Softball</td>
+    <td>$3 – 5</td>
+    <td>Used when hitting, and playing catch</td>
+  </tr>
+  <tr>
+    <td>Glove</td>
+    <td>$50 – 300</td> 
+    <td>Used to field and catch the ball when playing</td>
+  </tr>
+    <tr>
+      <td>Face Masks</td>
+      <td>$30 – 50</td>
+      <td>Used to protect your face from being hit by the ball or another player</td>
+    </tr>
+    <tr>
+      <td>Cleats</td>
+      <td>$25 – 60</td>
+      <td>Used to help gain traction when running</td>
+    </tr>
+    <tr>
+      <td>Helmet</td>
+      <td>$25 – 50</td>
+      <td>Used to protect your head when batting or  running the bases</td>
+    </tr>
+    <td>Slide guards</td>
+    <td>$20 – 50</td>
+    <td>Used to protect your legs from getting bruised or cut when sliding</td>
+    </tr>
+  <td>Bat</td>
+  <td>$40 – 350</td>
+  <td>Used to hit the ball when batting</td>
+  </tr>
+  <td>Batting Gloves</td>
+  <td>$15 – 40</td>
+  <td>Used to protect hands when batting and sometimes sliding</td>
+  </tr>
+</table>
+<style>
+ body {
+    background-color: lightblue;
+}
+  <style>
+</body>
+
+</html>
